@@ -1,0 +1,91 @@
+.reddivhover
+{
+	width:;
+	height:85px;
+	background-color: red;
+	display: flex;
+}
+
+.greendivhover {
+
+	width: 142;
+	height: 211px;
+	background-color:green;
+	transition:1s;
+	margin-top:20px;
+}
+
+.greendivhover:hover{
+	background-color: blue
+}
+
+.bigbluediv{
+ width: 260px;
+ height: 244px;
+ background-color: blue;
+ margin-left: 500px;
+ margin-top: -209px;
+ transition: 1s;
+
+
+}
+
+
+.bigbluediv2{
+ width: 260px;
+ height: 244px;
+ background-color: blue;
+ margin-left: 999px;
+ margin-top: -240px;
+ transition: 1s;
+
+
+}
+
+.bigreddiv{
+	width: 2000;
+	height: 303;
+	background-color: red;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+
+.smallbluediv{
+	width: 297px;
+	height: 226;
+	background-color: blue;
+	margin-top:30px;
+	margin-left: 10px;
+	transition: 1s
+}
+
+
+.smallgreenhover{
+	width: 216px;
+	height: 40px;
+	background-color: green;
+	transition:1s;
+	margin-top: 27px;
+	margin-left: 10px;
+}
+
+.smallbluediv:hover{
+ background-color: green
+}
+
+.smallgreenhover:hover{
+  background-color: blue
+}
+
+.bigbluediv:hover{
+	background-color: green
+}
+
+.bigbluediv2:hover{
+	background-color: green
+}
+
+
+
